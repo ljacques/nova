@@ -1,0 +1,28 @@
+{
+  "name": "nova",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repo"
+  },
+  "author": {
+    "name": "ljacques",
+    "email": "lionel.jacques@pharmagest.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "main": "nova.umd.js",
+  "module": "nova.js",
+  "jsnext:main": "nova.js",
+  "typings": "nova.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
