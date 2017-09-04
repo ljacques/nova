@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repo"
+    "url": "https://github.com/ljacques/nova.git"
   },
   "author": {
     "name": "ljacques",
@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/username/repo/issues"
+    "url": "https://github.com/ljacques/nova.git/issues"
   },
   "main": "nova.umd.js",
   "module": "nova.js",
